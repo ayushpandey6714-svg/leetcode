@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
