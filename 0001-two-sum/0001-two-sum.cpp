@@ -11,6 +11,6 @@ public:
             seen[nums[i]] = i;
         }
 
-        return {}; // no solution found
+        return {}; 
     }
 };
