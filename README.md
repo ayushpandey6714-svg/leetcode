@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
