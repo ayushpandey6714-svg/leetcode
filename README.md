@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 | ------- |
 | [0136-single-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0137-single-number-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
