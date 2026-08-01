@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
