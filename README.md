@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0226-invert-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
