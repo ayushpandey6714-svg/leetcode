@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -111,11 +112,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
