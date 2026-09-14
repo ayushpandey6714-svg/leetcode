@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0994-rotting-oranges](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,4 +148,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
