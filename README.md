@@ -170,4 +170,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
