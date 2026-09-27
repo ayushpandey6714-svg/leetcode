@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1934-confirmation-rate](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1934-confirmation-rate) |
 ## Greedy
 |  |
 | ------- |
