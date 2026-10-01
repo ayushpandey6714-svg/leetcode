@@ -17,6 +17,7 @@
 | [0137-single-number-ii](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0994-rotting-oranges](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -63,6 +64,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Trie
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +93,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
