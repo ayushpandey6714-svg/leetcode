@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0137-single-number-ii) |
@@ -91,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushpandey6714-svg/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ayushpandey6714-svg/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
 |  |
